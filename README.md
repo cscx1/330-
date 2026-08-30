@@ -1,4 +1,4 @@
-# Java GUI Design Patterns — Study Guide
+# Java GUI Design Patterns - Study Guide
 ### Based on COSC 330 Course Materials
 
 This guide is built **only** from the attached lecture slides on the Observer, Strategy, Adapter, Decorator, Singleton, and Façade patterns.
